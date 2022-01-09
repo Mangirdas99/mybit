@@ -1,1 +1,1 @@
-# mybit
+# mybit Redaguojam
